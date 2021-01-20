@@ -20,4 +20,4 @@ ai.start();
 // Recording for 20seconds
 setTimeout(() => {
   ai.quit();
-}, 5000);
+}, 20000);
