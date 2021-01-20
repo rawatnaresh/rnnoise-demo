@@ -1,0 +1,14 @@
+{
+  "name": "rnnoise",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "record": "node record.js",
+    "convert": "node convert.js"
+  },
+  "dependencies": {
+    "naudiodon": "^2.3.1",
+    "wav": "^1.0.2"
+  }
+}
